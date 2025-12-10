@@ -1,10 +1,14 @@
-columns = [[],[],[],[]]
+columns = []
 results = []
 final_result = 0
 
-with open("example-input.txt", "r") as file:
+with open("real-input.txt", "r") as file:
     for line in file:
         parts = line.split()
+
+        while len(columns) < len(parts):
+            columns.append([])
+
         for i, part in enumerate(parts):
             columns[i].append(part)
 
