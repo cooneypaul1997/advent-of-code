@@ -1,0 +1,15 @@
+C:\Projects\advent-of-code\2015\day01\bin\Debug\net10.0\day01.exe
+C:\Projects\advent-of-code\2015\day01\bin\Debug\net10.0\day01.deps.json
+C:\Projects\advent-of-code\2015\day01\bin\Debug\net10.0\day01.runtimeconfig.json
+C:\Projects\advent-of-code\2015\day01\bin\Debug\net10.0\day01.dll
+C:\Projects\advent-of-code\2015\day01\bin\Debug\net10.0\day01.pdb
+C:\Projects\advent-of-code\2015\day01\obj\Debug\net10.0\day01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\advent-of-code\2015\day01\obj\Debug\net10.0\day01.AssemblyInfoInputs.cache
+C:\Projects\advent-of-code\2015\day01\obj\Debug\net10.0\day01.AssemblyInfo.cs
+C:\Projects\advent-of-code\2015\day01\obj\Debug\net10.0\day01.csproj.CoreCompileInputs.cache
+C:\Projects\advent-of-code\2015\day01\obj\Debug\net10.0\day01.sourcelink.json
+C:\Projects\advent-of-code\2015\day01\obj\Debug\net10.0\day01.dll
+C:\Projects\advent-of-code\2015\day01\obj\Debug\net10.0\refint\day01.dll
+C:\Projects\advent-of-code\2015\day01\obj\Debug\net10.0\day01.pdb
+C:\Projects\advent-of-code\2015\day01\obj\Debug\net10.0\day01.genruntimeconfig.cache
+C:\Projects\advent-of-code\2015\day01\obj\Debug\net10.0\ref\day01.dll
